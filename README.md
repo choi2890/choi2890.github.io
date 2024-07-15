@@ -43,7 +43,7 @@
 >
 > - 시연영상 :<a href="https://www.youtube.com/watch?v=RDssr8zE3Nw"> <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> </a> <br />
 
-## 2. 👞 CampCok
+## 2. ⛺ CampCok
 
 > 날씨를 이용한 캠핑장 추천 _(중앙정보기술인재개발원 팀프로젝트)_
 >
@@ -61,7 +61,7 @@
 
 <br />
 
-## 3. 🍻 기쁘띠
+## 3. 🎁 기쁘띠
 
 > 기프티콘 거래 중개 웹 관리자 페이지 _(중앙정보기술인재개발원 팀프로젝트)_
 >
