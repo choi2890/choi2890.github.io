@@ -18,7 +18,7 @@ const Main = () => {
         return <Skills />;
       case "Portfolio":
         return <Portfolio />;
-      case "DogGallery":
+      case "My Dog":
         return <DogGallery />;
       case "contact":
         return <Contact />;

@@ -20,13 +20,13 @@ const DogGallery = () => {
 
   const matildaPhotos = generatePhotos(
     "matilda",
-    14,
+    13,
     "./assets/images/matilda-"
   );
   const leonPhotos = generatePhotos("leon", 6, "./assets/images/leon-");
-  const dogPhotos = generatePhotos("dog", 3, "./assets/images/dog-");
+  const dogPhotos = generatePhotos("Leon & Matilda", 5, "./assets/images/dog-");
 
-  const allPhotos = [...matildaPhotos, ...leonPhotos, ...dogPhotos];
+  const allPhotos = [...dogPhotos, ...matildaPhotos, ...leonPhotos];
 
   const settings = {
     dots: true,
@@ -76,9 +76,9 @@ const DogGallery = () => {
               <div key={photo.title} className="dog-photo-item p-2">
                 <a
                   href="#"
-                  className="block bg-border-gradient-onyx shadow-shadow-4 rounded-xl overflow-hidden"
+                  className="block bg-gradient-to-r from-gray-800 to-gray-900 shadow-lg rounded-xl overflow-hidden"
                 >
-                  <figure className="dog-banner-box w-full h-52 overflow-hidden">
+                  <figure className="dog-banner-box w-full h-64 overflow-hidden">
                     <img
                       src={photo.imgSrc}
                       alt={photo.imgAlt}
@@ -86,14 +86,14 @@ const DogGallery = () => {
                     />
                   </figure>
                   <div className="dog-content p-4">
-                    <div className="dog-meta flex items-center space-x-2 text-light-gray-70 text-fs-6 mb-2">
+                    <div className="dog-meta flex items-center space-x-2 text-gray-400 text-sm mb-2">
                       <p className="dog-category">{photo.category}</p>
-                      <span className="dot w-1 h-1 bg-light-gray-70 rounded-full"></span>
+                      <span className="dot w-1 h-1 bg-gray-400 rounded-full"></span>
                     </div>
-                    <h3 className="dog-item-title text-fs-5 text-white-2 font-medium mb-2 transition-colors duration-300 hover:text-orange-yellow-crayola">
+                    <h3 className="dog-item-title text-lg text-white font-medium mb-2 transition-colors duration-300 hover:text-yellow-500">
                       {photo.title}
                     </h3>
-                    <p className="dog-text text-light-gray text-fs-6 font-light leading-6">
+                    <p className="dog-text text-gray-300 text-sm font-light leading-6">
                       {photo.description}
                     </p>
                   </div>
