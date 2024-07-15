@@ -1,7 +1,7 @@
 import React from "react";
 
 const Navbar = ({ setActiveTab, activeTab }) => {
-  const tabs = ["Introduction", "Skills", "Portfolio", "blog", "contact"];
+  const tabs = ["Introduction", "Skills", "Portfolio", "DogGallery", "contact"];
 
   return (
     <nav className="navbar fixed bottom-0 left-0 w-full bg-gray-900  bg-opacity-75 backdrop-blur-md border border-jet rounded-t-2xl shadow-lg z-10 md:relative md:top-0 md:right-0 md:w-auto md:border-none md:shadow-none">

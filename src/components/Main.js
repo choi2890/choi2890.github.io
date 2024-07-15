@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 import About from "./About";
 import Skills from "./Skills";
 import Portfolio from "./Portfolio";
-import Blog from "./Blog";
+import DogGallery from "./DogGallery";
 import Contact from "./Contact";
 
 const Main = () => {
@@ -18,8 +18,8 @@ const Main = () => {
         return <Skills />;
       case "Portfolio":
         return <Portfolio />;
-      case "blog":
-        return <Blog />;
+      case "DogGallery":
+        return <DogGallery />;
       case "contact":
         return <Contact />;
       default:
