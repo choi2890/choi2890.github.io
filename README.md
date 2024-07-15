@@ -41,7 +41,7 @@
 > >
 > > <ion-icon name="logo-github"></ion-icon> [프로젝트 상세 설명(Front-end)](https://github.com/choi2890/beer_front)
 >
-> - 시연영상 :<a href="https://www.youtube.com/watch?v=RDssr8zE3Nw"> > <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> > </a> > <br />
+> - 시연영상 :<a href="https://www.youtube.com/watch?v=RDssr8zE3Nw"> <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> </a> > <br />
 
 ## 2. 👞 CampCok
 
@@ -57,7 +57,7 @@
 > - 협업 도구 : Github, Notion, Google Drive
 >
 > - [프로젝트 상세 설명](https://github.com/choi2890/campcok)
-> - 시연영상 :<a href="https://www.youtube.com/watch?v=9PHRTfCM6m4"> > <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> > </a>
+> - 시연영상 :<a href="https://www.youtube.com/watch?v=9PHRTfCM6m4"> <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> </a>
 
 <br />
 
@@ -74,7 +74,7 @@
 
 > <ion-icon name="logo-github"></ion-icon> [프로젝트 상세 설명](https://github.com/choi2890/Giftti)
 >
-> - 시연영상 :<a href="https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_"> > <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> > </a> > <br />
+> - 시연영상 :<a href="https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_"> <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> </a> > <br />
 
   </tbody>
 </table>
