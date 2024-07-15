@@ -27,22 +27,21 @@
 >
 > - 개발기간 : 2024. 06.01 ~ 2024. 06.26
 > - 핵심 역할 : 팀원, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
->
-> > Back-end
-> >
-> > - Language : java17
-> > - Skill : Django, Django-rest-framework, PostgreSQL
-> >
+>   > - Language : Java (JDK 17), Javascript
+>   > - DB : MySQL 8.0.27
+>   > - IDE : Intellij idea ultimate, Visual Studio Code
+>   > - 라이브러리 : Axios 1.6.8
+>   > - 배포 : dockerhub Git Action Ec2 nginx
+>   > - 라이브러리 : Axios 1.6.8
+>   > - 협업 도구 : Github, Notion, Google Drive
+
 > > <ion-icon name="logo-github"></ion-icon> [프로젝트 상세 설명(Back-end)](https://github.com/choi2890/beer_backend)
 >
-> > Front-end
-> >
-> > - Language : javascript
-> > - Skill : React.js
+> > Front-end : React 18.3.1 ,Node.js 18.18.2
 > >
 > > <ion-icon name="logo-github"></ion-icon> [프로젝트 상세 설명(Front-end)](https://github.com/choi2890/beer_front)
-
-<br />
+>
+> - 시연영상 :<a href="https://www.youtube.com/watch?v=RDssr8zE3Nw"> > <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> > </a> > <br />
 
 ## 2. 👞 CampCok
 
@@ -57,7 +56,8 @@
 > - 라이브러리 : Axios 1.6.8
 > - 협업 도구 : Github, Notion, Google Drive
 >
-> <ion-icon name="logo-github"></ion-icon> [프로젝트 상세 설명](https://github.com/choi2890/campcok)
+> - [프로젝트 상세 설명](https://github.com/choi2890/campcok)
+> - 시연영상 :<a href="https://www.youtube.com/watch?v=9PHRTfCM6m4"> > <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> > </a>
 
 <br />
 
@@ -73,12 +73,11 @@
 > - 협업 도구 : Github, Notion, Google Drive
 
 > <ion-icon name="logo-github"></ion-icon> [프로젝트 상세 설명](https://github.com/choi2890/Giftti)
-
-<br />
+>
+> - 시연영상 :<a href="https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_"> > <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" /> > </a> > <br />
 
   </tbody>
 </table>
-> <b><em><a href="https://www.youtube.com/">More videos...</a></em></b>
 
 <br />
 <br />
@@ -91,7 +90,4 @@
   </a>
 - 깃허브 : <a href="https://github.com/choi2890">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
-- 유튜브 :<a href="https://www.youtube.com/channel/">
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
