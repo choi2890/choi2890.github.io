@@ -9,7 +9,7 @@ const Sidebar = () => {
           <img
             src={반명함}
             alt="반명함"
-            className="w-60 h-60 rounded-full mx-auto mt-8"
+            className="w-55 h-55 rounded-full mx-auto mt-8"
           />
         </figure>
         <div className="info-content mb-6 text-center">
