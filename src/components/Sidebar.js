@@ -55,7 +55,7 @@ const Sidebar = () => {
               <p className="contact-title text-gray-400 text-lg">Portfolio</p>
               <a
                 href="/신입 웹 개발자 최현철 포트폴리오.pdf"
-                className="contact-link text-white text-lg"
+                className="inline-flex items-center px-2 py-1 bg-yellow-600 text-white text-ls font-semibold rounded-lg transition-colors duration-300 hover:bg-red-700"
                 target="_blank"
                 rel="noopener noreferrer"
               >

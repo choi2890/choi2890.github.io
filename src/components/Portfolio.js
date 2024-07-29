@@ -48,8 +48,17 @@ webRTC와 websockt 기능을 통해 다른 공간에서 실시간으로 같이
     <article className="blog active bg-gray-800  rounded-2xl p-4 shadow-shadow-1">
       <header>
         <h2 className="text-5xl text-white-2 font-semibold mb-4">Portfolio</h2>
+        <a
+          href="/신입 웹 개발자 최현철 포트폴리오.pdf"
+          className="inline-flex items-center px-4 py-2 bg-yellow-600 text-white text-lg font-semibold rounded-lg transition-colors duration-300 hover:bg-red-700"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <ion-icon name="document-text-outline" class="mr-2"></ion-icon>View
+          PDF
+        </a>
       </header>
-      <section className="blog-posts mb-10">
+      <section className="blog-posts mt-10 mb-10">
         <ul className="blog-posts-list space-y-8">
           {posts.map((post) => (
             <li key={post.title} className="blog-post-item">
