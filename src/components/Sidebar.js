@@ -14,7 +14,7 @@ const Sidebar = () => {
         </figure>
         <div className="info-content mb-6 text-center">
           <h1 className="name text-white text-2xl font-semibold">최현철</h1>
-          <p className="title text-gray-400 text-lg">developer</p>
+          <p className="title text-gray-400 text-lg">Web Developer</p>
         </div>
         <div className="separator bg-gray-800 h-1 my-6"></div>
         <ul className="contacts-list space-y-6">
@@ -42,20 +42,25 @@ const Sidebar = () => {
                 href="tel:+01041802890"
                 className="contact-link text-white text-lg"
               >
-                +82 01041802890
+                +82 010 - 4180 - 2890
               </a>
             </div>
           </li>
 
           <li className="contact-item flex items-center space-x-4">
             <div className="icon-box bg-gray-700 w-12 h-12 flex justify-center items-center rounded-md text-yellow-400 shadow-md">
-              <ion-icon name="location-outline"></ion-icon>
+              <ion-icon name="document-text-outline"></ion-icon>
             </div>
             <div className="contact-info">
-              <p className="contact-title text-gray-400 text-lg">Location</p>
-              <address className="text-white text-lg">
-                서울, 강남구, 대한민국
-              </address>
+              <p className="contact-title text-gray-400 text-lg">Portfolio</p>
+              <a
+                href="/신입 웹 개발자 최현철 포트폴리오.pdf"
+                className="contact-link text-white text-lg"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View PDF
+              </a>
             </div>
           </li>
         </ul>
@@ -75,9 +80,10 @@ const Sidebar = () => {
               className="social-link text-yellow-400 text-2xl"
             >
               <img
-                className="w-7 h-7 "
+                className="w-7 h-7"
                 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"
-              ></img>
+                alt="Notion Logo"
+              />
             </a>
           </li>
           <li className="social-item">

@@ -15,21 +15,28 @@ const About = () => {
       <section className="about-text mb-10">
         <p className="text-light-gray text-4xl font-bold leading-relaxed mb-6">
           안녕하세요. <br />
-          저는 신입 백엔드 개발자
+          저는 신입 Web 개발자
           <br /> 최현철입니다.
         </p>
-        <p className="text-light-gray text-2xl font-light leading-relaxed ">
-          ✔️ [ 성실함 ] : 2년 반 동안 주 7일 동안 꾸준히 카페를 운영하며, 어려운
-          상황에서도 포기하지 않고 지속해서 노력했습니다. <br />
-          ✔️ [프로그래밍 프로젝트 경험 ] : 다양한 개발 프로젝트를 통해 기술
-          역량을 쌓았습니다. 이클립스를 사용한 기프티콘 거래 플랫폼, 스프링
-          부트와 React를 기반으로 한 캠핑장 추천 모바일 플랫폼 등 다양한
-          프로젝트를 수행했습니다. <br /> ✔️ [ 새로운 기술 학습 ] : 새로운
-          기술을 배우는 것을 좋아하며, 습득이 빠릅니다. <br />
-          ✔️ [ 소통과 팀워크 ] : 손님을 응대한 경험이 많아 사람들과의 소통에
-          능숙합니다. <br /> ✔️ [ 문제 해결 능력 ] : 프로젝트 진행 중 문제가
-          생기거나 어려움이 있을 때 서치를 통해 해결하고 유튜브를 통해 필요한
-          기술을 습득하여 문제를 해결했습니다.
+        <p className="text-light-gray text-2xl font-light leading-relaxed">
+          <button className="bg-yellow-500 text-white px-4 py-2 rounded-lg mb-4 w-full text-left">
+            🚩 [ 뛰어난 습득력 ] : 6개월간 취업캠프를 다니는 동안 저녁에 틈틈이
+            공부하여 처음 접하는 분야인 SQLD, 정보처리기사 시험을 한번에
+            합격했습니다.
+          </button>
+          <br />
+          <button className="bg-blue-500 text-white px-4 py-2 rounded-lg mb-4 w-full text-left">
+            🚩 [ 다양한 프로젝트 경험 ] : 이클립스를 이용한 웹 관리자 페이지,
+            공공데이터 API를 이용한 캠핑장 추천 플랫폼, Web RTC와 Web Socket를
+            이용한 화상채팅 플랫폼 프로젝트를 만들었습니다.
+          </button>
+          <br />
+          <button className="bg-green-500 text-white px-4 py-2 rounded-lg mb-4 w-full text-left">
+            🚩 [ 카페 운영 경험 ] : 3년 카페를 운영하면서 사장의 책임감을 키웠고
+            다양한 문제들을 해결 했습니다. 그리고 직원들과의 소통을 중요시
+            하면서 운영 했습니다.
+          </button>
+          <br />
         </p>
       </section>
       <section className="service mb-10">
